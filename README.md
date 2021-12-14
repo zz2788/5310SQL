@@ -6,3 +6,5 @@ As a team of database experts, we are hired by a property company. The client ha
 The dataset "train.csv" is originally from the Kaggle competition: [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data). 
 
 You can find the schema of the relational database in "Schema&ImportData.Py." Using the code you can build a database in pgAdmin and write the tables to the database. 
+
+"10Queries.sql" demonstrates the use of the relational databse. 
